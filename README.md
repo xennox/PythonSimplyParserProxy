@@ -1,5 +1,5 @@
 # PythonSimplyParserProxy
-Простой парсер на основе BeautifulSoup и requests
+Простой парсер на основе BeautifulSoup и Requests
 
 Добавил колораму(colorama) чтобы выглядело веселее :)
 
